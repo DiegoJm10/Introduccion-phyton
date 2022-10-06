@@ -4,7 +4,7 @@
 Este repositorio encontraremos el primer ejercicios de **Python** el cual mucha gente conoce como **"Hola Mundo"**.
 
 ## Material necesario
-Para realizar este flow necesitas lo siguiente:
+Para realizar este ejercicio necesitas lo siguiente:
 
 - [Ubuntu 20.04](https://releases.ubuntu.com/20.04/)
 - [Python](https://www.python.org/)
